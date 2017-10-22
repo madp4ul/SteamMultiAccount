@@ -1,0 +1,19 @@
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\bin\Debug\Steam Multi Account.exe.config
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\bin\Debug\Steam Multi Account.exe.manifest
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\bin\Debug\Steam Multi Account.application
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\bin\Debug\Steam Multi Account.exe
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\bin\Debug\Steam Multi Account.pdb
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\bin\Debug\Newtonsoft.Json.dll
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\bin\Debug\Newtonsoft.Json.xml
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam Multi Account.csprojResolveAssemblyReference.cache
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam_Multi_Account.AccountControl.resources
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam_Multi_Account.MainForm.resources
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam_Multi_Account.SteamLoginSelectionControl.resources
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam_Multi_Account.AddAccountForm.resources
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam_Multi_Account.MasterLoginControl.resources
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam Multi Account.csproj.GenerateResource.Cache
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam Multi Account.TrustInfo.xml
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam Multi Account.exe.manifest
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam Multi Account.application
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam Multi Account.exe
+C:\Alte Ordner\Desktop Ordner\SoftwareProjekte\Steam Multi Account\Steam Multi Account\obj\Debug\Steam Multi Account.pdb
